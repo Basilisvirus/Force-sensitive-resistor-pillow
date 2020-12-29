@@ -13,6 +13,6 @@ Pictures from the presentation
 Simple Design:
 [![Simple-schematis-without-led.png](https://i.postimg.cc/BZRDYfhJ/Simple-schematis-without-led.png)](https://postimg.cc/Wt6hzCLy)
 
-Having any issues with the project? contact me at basilisvirus@hotmail.com
+Having any issues with the project? contact me at christianidis@disroot.org
 
 Κατασκεύασα και προγραμμάτισα αισθητήρα δύναμης ο οποιος τοποθετείται στη καρέκλα εργασίας του ατόμου, ειδοποιώντας τον σε περίπτωση που κάθεται για μεγαλο χρονικο διαστημα.
